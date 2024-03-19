@@ -1,4 +1,4 @@
-# Magnetic-Tile-Surface-Defect-Detection-Dataset
+# Magnetic-Tile-Surface-Defect-Detection-Dataset (MTS3D)
 
 This dataset is collected by Precision Measurement &amp; Vision AI Lab. The magnetic tile dataset was collected from four actual manufacturing production lines.
 
@@ -24,6 +24,8 @@ Our dataset comprises six categories of surface defects:
 ![Defects to be detected.](figs/defects.png)
 
 ## Citation
+
+> The link will be updated shortly.
 
 The MTS3D can be downloaded from [here](TODO:), and it is for the paper:
 
