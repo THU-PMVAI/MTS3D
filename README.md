@@ -27,9 +27,9 @@ Our dataset comprises six categories of surface defects:
 
 > The link will be updated shortly.
 
-The MTS3D can be downloaded from [here](TODO:), and it is for the paper:
+The MTS3D can be downloaded from [here](https://google.com/), and it is for the paper:
 
-[The paper link](TODO:)
+[The paper link](https://google.com/)
 
 Please cite the paper if you use this dataset:
 
