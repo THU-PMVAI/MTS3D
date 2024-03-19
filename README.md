@@ -12,7 +12,14 @@ During the dataset construction phase, we employed only the most fundamental cle
 
 ## Defect Types
 
-Our dataset comprises six categories of surface defects: impurity, bump, chamfer, multifaceted, under-grinding, and crack.
+Our dataset comprises six categories of surface defects:
+
+1. impurity,
+2. bump,
+3. chamfer,
+4. multifaceted,
+5. under-grinding,
+6. crack.
 
 ![Defects to be detected.](figs/defects.png)
 
@@ -28,6 +35,6 @@ Please cite the paper if you use this dataset:
 The Bibtex of the paper
 ```
 
-## Contact
+<!-- ## Contact
 
-This dataset is for research use only. If you have any problem about this work or dataset, please contact with Prof. Xinghui at li.xinghui@sz.mails.tsinghua.edu.cn.
+This dataset is for research use only. If you have any problem about this work or dataset, please contact with Prof. Xinghui at li.xinghui@sz.tsinghua.edu.cn. -->
