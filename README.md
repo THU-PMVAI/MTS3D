@@ -1,6 +1,6 @@
 # Magnetic-Tile-Surface-Defect-Detection-Dataset (MTS3D)
 
-This dataset is collected by Precision Measurement &amp; Vision AI Lab. The magnetic tile dataset was collected from four actual manufacturing production lines.
+This dataset is collected by Precision Measurement |amp; Vision AI Lab. The magnetic tile dataset was collected from four actual manufacturing production lines.
 
 Samples sourced from different manufacturers exhibit variations in terms of the photography environment (lighting, contrast), shooting angles (background), and sample arrangement (texture direction). Figure below visually demonstrates the discrepancies observed among samples originating from various sources.
 
@@ -22,6 +22,15 @@ Our dataset comprises six categories of surface defects:
 6. crack.
 
 ![Defects to be detected.](figs/defects.png)
+
+## Dataset Statistics
+
+Categorical distribution of the source and target domain.
+
+| Defects | crack | bump  | multifaceted | chamfer | impurity | grind | total |
+| ------- | ----- | ----- | ------------ | ------- | -------- | ----- | ----- |
+| Source  | 5627  | 14917 | 4205         | 708     | 277      | 863   | 21700 |
+| Target  | 1104  | 2432  | 1526         | 715     | 453      | 691   | 5927  |
 
 ## Citation
 
