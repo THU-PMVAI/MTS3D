@@ -38,7 +38,8 @@ Categorical distribution of the source and target domain.
 
 The MTS3D can be downloaded from [here](https://google.com/), and it is for the paper:
 
-[Style Adaptation module: Enhancing detector robustness to inter-manufactur](https://doi.org/10.1016/j.compind.2024.104084)
+<!-- [Style Adaptation module: Enhancing detector robustness to inter-manufactur](https://doi.org/10.1016/j.compind.2024.104084) -->
+[Style Adaptation module: Enhancing detector robustness to inter-manufactur](https://authors.elsevier.com/c/1ino~bquFYjLz)
 
 Please cite the paper if you use this dataset:
 
