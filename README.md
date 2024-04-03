@@ -34,7 +34,7 @@ Categorical distribution of the source and target domain.
 
 ## Citation
 
-> We are actively working to advance the openness of our dataset, and it will be available online soon.
+> We are actively working to advance the openness of our dataset, and it will be available online before April 15.
 
 The MTS3D can be downloaded from [here](https://google.com/), and it is for the paper:
 
