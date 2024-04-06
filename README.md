@@ -14,23 +14,29 @@ During the dataset construction phase, we employed only the most fundamental cle
 
 Our dataset comprises six categories of surface defects:
 
-1. impurity,
-2. bump,
-3. chamfer,
-4. multifaceted,
-5. under-grinding,
-6. crack.
+1. impurity
+2. bump
+3. chamfer
+4. multifaceted
+5. grind
+6. crack
 
 ![Defects to be detected.](figs/defects.png)
 
 ## Dataset Statistics
 
-Categorical distribution of the source and target domain.
+- Categorical distribution of the source and target domain.
 
-| Defects | crack | bump  | multifaceted | chamfer | impurity | grind | total |
-| ------- | ----- | ----- | ------------ | ------- | -------- | ----- | ----- |
-| Source  | 5627  | 14917 | 4205         | 708     | 277      | 863   | 21700 |
-| Target  | 1104  | 2432  | 1526         | 715     | 453      | 691   | 5927  |
+| Defects | chamfer | multifaceted | bump  | impurity | grind | crack | total |
+| ------- | ------- | ------------ | ----- | -------- | ----- | ----- | ----- |
+| Source  | 708     | 4205         | 14917 | 277      | 863   | 5627  | 21700 |
+| Target  | 715     | 1526         | 2432  | 453      | 691   | 1104  | 5927  |
+
+- `id` to each defect type in the yolo-format dataset.
+
+| Defects | chamfer | multifaceted | bump | impurity | crack | grind |
+| ------- | ------- | ------------ | ---- | -------- | ----- | ----- |
+| id      | 0       | 1            | 2    | 3        | 4     | 5     |
 
 ## Citation
 
